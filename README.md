@@ -17,16 +17,16 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Screenshots
 
 #### Employees
-![Screenshot1](/screenshots/screenshot1.png?raw=true)
+![Screenshot1](/screenshots/screenshot1.png)
 
 #### Employees' filter
-![Screenshot2](/screenshots/screenshot2.png?raw=true)
+![Screenshot2](/screenshots/screenshot2.png)
 
 #### Employee details
-![Screenshot3](/screenshots/screenshot3.png?raw=true)
+![Screenshot3](/screenshots/screenshot3.png)
 
 #### Costs
-![Screenshot4](/screenshots/screenshot4.png?raw=true)
+![Screenshot4](/screenshots/screenshot4.png)
 
 #### Tests
-![Screenshot-tests](/screenshots/screenshot-tests.png?raw=true)
+![Screenshot-tests](/screenshots/screenshot-tests.png)
