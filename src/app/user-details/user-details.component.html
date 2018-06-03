@@ -1,0 +1,15 @@
+<mat-card style="width: 260px;" *ngIf="user">
+    <div id="header">{{ user.title | uppercase }} {{ user.firstName | uppercase }} {{ user.surname | uppercase }}</div>
+    <mat-card-content>
+        <div><b>Birthday:</b> {{user.dateOfBirth}}</div>
+        <div><b>Gender:</b> {{user.gender}}</div>
+        <div><b>Age:</b> {{user.age}}</div>
+        <div><b>Salary:</b> {{user.salary}}</div>
+        <div><b>Take Home:</b> {{user.takeHome}}</div>
+        <div><b>Income Tax:</b> {{user.incomeTax}}</div>
+        <div><b>National Insurance:</b> {{user.nationalInsurance}}</div>
+    </mat-card-content>
+    <mat-card-actions>
+        <button mat-button (click)="goBack()">Back</button>
+    </mat-card-actions>
+</mat-card>
